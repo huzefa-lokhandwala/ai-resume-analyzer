@@ -1,0 +1,25 @@
+Huzefa Lokhandwala
+B.Tech Computer Science (Artificial Intelligence)
+
+Summary:
+Motivated computer science student with a strong foundation in programming and artificial intelligence. Interested in applying AI techniques to solve real-world problems through practical and structured approaches.
+
+Skills:
+- Python programming
+- Data structures and algorithms
+- Basic machine learning concepts
+- Natural language processing fundamentals
+- Problem solving
+- Software development fundamentals
+
+Education:
+Bachelor of Technology in Computer Science (Artificial Intelligence)
+Currently pursuing undergraduate degree
+
+Projects:
+- Developed small Python-based tools focused on text processing and automation
+- Implemented beginner-level AI projects using NLP techniques
+
+Interests:
+Artificial intelligence, software engineering, system design, and problem solving
+

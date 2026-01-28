@@ -1,0 +1,23 @@
+Job Title: AI / Software Engineering Intern
+
+We are looking for a motivated Computer Science student to assist in building and maintaining software systems with applied artificial intelligence.
+
+Requirements:
+- Strong understanding of Python programming
+- Knowledge of data structures and algorithms
+- Familiarity with basic machine learning and artificial intelligence concepts
+- Experience with natural language processing is a plus
+- Ability to analyze problems and implement logical solutions
+- Understanding of software development fundamentals
+
+Responsibilities:
+- Assist in developing AI-based features and tools
+- Work with text data and basic NLP techniques
+- Write clean, maintainable Python code
+- Collaborate with team members on problem solving and system design
+
+Preferred Skills:
+- Interest in applied AI and software engineering
+- Basic understanding of system design concepts
+- Willingness to learn and adapt quickly
+
